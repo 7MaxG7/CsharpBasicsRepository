@@ -19,7 +19,6 @@ namespace MaxGiriy_Lesson04_Task05 {
 
         public TwoDimArray(int rows, int collums, int maxVal) {
             arr = new int[rows, collums];
-
             Random rand = new Random();
             for (int i = 0; i < arr.GetLength(0); ++i) {
                 for (int j = 0; j < arr.GetLength(1); ++j) {
@@ -71,7 +70,7 @@ namespace MaxGiriy_Lesson04_Task05 {
             for (int i = 0; i < arr.GetLength(0); ++i) {
                 for (int j = 0; j < arr.GetLength(1); ++j) {
                     if (arr[i, j] == Max) {
-                        n = i * arr.GetLength(1) + j;
+                        n = i * arr.GetLength(1) + j + 1;
                         return;
                     }
                 }
@@ -101,6 +100,14 @@ namespace MaxGiriy_Lesson04_Task05 {
                 }
             }
             catch (FileNotFoundException ex) { Console.WriteLine(ex.Message); }
+        }
+        public void Print() {
+            for (int i = 0; i < arr.GetLength(0); ++i) {
+                for (int j = 0; j < arr.GetLength(1); ++j) {
+                    Console.Write($"{arr[i, j], 2} ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

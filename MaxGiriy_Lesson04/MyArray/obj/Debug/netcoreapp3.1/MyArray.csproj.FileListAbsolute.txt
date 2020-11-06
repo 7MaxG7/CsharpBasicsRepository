@@ -1,8 +1,0 @@
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\bin\Debug\netcoreapp3.1\MyArray.deps.json
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\bin\Debug\netcoreapp3.1\MyArray.dll
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\bin\Debug\netcoreapp3.1\MyArray.pdb
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\obj\Debug\netcoreapp3.1\MyArray.AssemblyInfoInputs.cache
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\obj\Debug\netcoreapp3.1\MyArray.AssemblyInfo.cs
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\obj\Debug\netcoreapp3.1\MyArray.csproj.CoreCompileInputs.cache
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\obj\Debug\netcoreapp3.1\MyArray.dll
-C:\Users\maxgi\Documents\Workspace_C#\GeekBrains\CsharpLanguageBasics\MaxGiriy_Lesson04\MyArray\obj\Debug\netcoreapp3.1\MyArray.pdb
