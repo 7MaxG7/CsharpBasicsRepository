@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxGiriy_Lesson07_Task01", "MaxGiriy_Lesson07_Task01\MaxGiriy_Lesson07_Task01.csproj", "{77C7128C-C01F-4BBB-AA80-64C79CCB6E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxGiriy_Lesson07_Task02", "MaxGiriy_Lesson07_Task02\MaxGiriy_Lesson07_Task02.csproj", "{BE029B88-8570-4A9D-8C98-F0E87C572E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C7128C-C01F-4BBB-AA80-64C79CCB6E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C7128C-C01F-4BBB-AA80-64C79CCB6E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C7128C-C01F-4BBB-AA80-64C79CCB6E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7128C-C01F-4BBB-AA80-64C79CCB6E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE029B88-8570-4A9D-8C98-F0E87C572E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE029B88-8570-4A9D-8C98-F0E87C572E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE029B88-8570-4A9D-8C98-F0E87C572E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE029B88-8570-4A9D-8C98-F0E87C572E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC00EC4-D30C-41F4-9420-B94837BBC71B}
+	EndGlobalSection
+EndGlobal
